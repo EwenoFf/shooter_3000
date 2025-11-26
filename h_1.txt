@@ -1,0 +1,24 @@
+h                                             1                                                       1                                                                                     h
+h                                                                                                                                                                                       h
+h           ccccccccccccccccccc                                      1                                                                                      1                              h                                                                                                                                                          
+h          cccccccccccccccccccccccccc                                                                                                                                                        h
+h      cccccaaaaaaaaacccccccccccccccccccc                                                                                                                                                   h
+h     ccccccaaaaaaaaa1111111111111111111                                                                                                                                                     h
+h    ccaaaaaaaaaaaaa1111111111111111111111                                                                                                                                                   h
+h   caaaaaaaaaaaaa1111111111111111111111111                                          1                                      1                                                                h
+h  caaaaaaaaaaaaaa111111111111111111111111111            1                                                                                                                                   h
+h cccaaaaaaaaaaa1111111111111111111111111111111                                                                                                               1                             h
+hcaaaaaaaaaaaaaaa111111111111111111111111111aaacc                                                                                                                                            h
+hccccaaaaaaaaaaaa111111111111111111111111111aacc                                                                                                                                             h
+hcccccaaaaaaaaaaaaacaaaaaaaa1111111111111111aaaac                              1                                                                                                             h
+hcccccccaaaaaaaaaaaaaaaaaaa111111111111111aaaaac                                                                                                                                             h
+hccccccccccaaaaaaaaaaaaaaaaa111111111111aaaaaaac                                                       1                                                                     1               h
+hccccccccccaaaaaaaaaaaaaaaaaa1111111111aaaaaaac                                                                                                                                              h
+h-ccccccccaaaaaaaaaaaaaaaaaa11111111111111aaaac                                                                                                                                              h
+h cccccccccaaaaaaaaaaaaaaaaaa11111111111111aaac                                                                                                                 1                            h
+h  ccccccaaaaaaaaaaaaaaaaaaaaa11111111accaaaac                                         1                                                                                                     h
+h   cccccaaaaaaaaaaaaaaaaaaaaa111111aaaaaaaac               1                                                                                                                        1       h
+h     cccaaaaaaaaaaaaaaaaaaaaaa1aaaaaaaaaacc                                                                                                                                                 h
+h      cccaaaaaaaaaaaaaaaaaaaaaaaaaaaaac                                                                                                                                                     h
+h        cccaaa666666666666aaaaaaaaaa66                                                                                                                                                               h
+           

@@ -1,0 +1,7 @@
+h      ffh
+h     ffffh
+h   fffaafffh
+h  ffffaaffffh
+h ffffffffffffh
+h   ff    ff    h
+          

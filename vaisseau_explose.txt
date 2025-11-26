@@ -1,0 +1,15 @@
+h            6  h
+h         6 6 6  6 h
+h          6 6  6 h 
+h        6eee6 h
+h      66e6e16   h
+h     7e1781787      h
+h    71181717         h
+h   778878777        h  
+h   8788778788        h
+h   88ffff888       h
+h  fffa78877ff      h
+h fffffaaaffff    h
+h  ffffffffff     h
+h   ff    ff       h
+h   ff    ff       h
